@@ -1,4 +1,4 @@
-### **README for Flask Backend Application**
+### **README for Backend Application**
 
 ---
 
